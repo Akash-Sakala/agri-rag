@@ -1,6 +1,5 @@
 Flask
 gunicorn
-uv
 
 numpy
 PyPDF2
