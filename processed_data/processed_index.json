@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "farmerbook.pdf",
+    "hash": "95bde7c9564efb2675653e948efdee1d786c28d5e02453eb12beaada0d987f21",
+    "processed_at": "2025-11-28T06:57:26.390517Z",
+    "path": "processed_data\\farmerbook.pdf"
+  },
+  {
+    "filename": "Agronomy-Manual.pdf",
+    "hash": "0918b11d2e2f5aa54e08d754ca41bd9ffc7abe4c72f2cfe8ee53b274c064edd2",
+    "processed_at": "2025-11-28T07:01:55.037809Z",
+    "path": "processed_data\\Agronomy-Manual.pdf"
+  }
+]
